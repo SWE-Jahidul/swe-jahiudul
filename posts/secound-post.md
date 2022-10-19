@@ -1,6 +1,6 @@
 ---
-title: My First Blog Post
-description: This is the first post on my blog
+title: My 2222 Blog Post
+description: This is the secound post on my blog
 tags: post
 date: 2021-06-19
 layout: layouts/post.njk
